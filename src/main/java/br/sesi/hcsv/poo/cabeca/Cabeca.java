@@ -1,8 +1,8 @@
 package br.sesi.hcsv.poo.cabeca;
 
 public class Cabeca {
-    olho zoio;
-    Orelha orelhao;
-    Nariz nariz;
-    Boca boca;
+    public olho olho;
+    public Orelha orelhao;
+    public Nariz nariz;
+    public Boca boca;
 }

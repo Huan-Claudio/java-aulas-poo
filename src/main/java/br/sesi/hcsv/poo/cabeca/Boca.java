@@ -1,6 +1,6 @@
 package br.sesi.hcsv.poo.cabeca;
 
 public class Boca {
-    String corLabios;
-    int qtdeDentes;
+    public String corLabios;
+    public int qtdeDentes;
 }
